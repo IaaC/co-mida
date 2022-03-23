@@ -14,8 +14,13 @@ Se trata de un sistema bottom-up que es co-diseñado por los propios usuarios pa
 El proyecto estudiará nuevos modelos innovadores (fabricación modular 3D y sistemas bio-fotovoltaicos para el autoabastecimiento energético) que integran una producción circular desde un enfoque de abajo hacia arriba con el objetivo tanto de fortalecer el sentido de comunidad en el espacio público como de renaturalizar la zona y mejorar la calidad del aire.
 
 Para más información sobre el proyecto Co-MIDA, síguenos:
+
 https://comida.iaac.net/
+
 https://iaac.net/project/co-mida/
+
 https://twitter.com/comidaproject
+
 https://www.instagram.com/comida.project/
+
 https://www.facebook.com/comida.ciutatproactiva
